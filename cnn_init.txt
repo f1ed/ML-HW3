@@ -1,0 +1,3 @@
+Reading data
+Size of training data = 9866
+Size of Validation data = 3430
